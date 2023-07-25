@@ -26,6 +26,7 @@ export default function About() {
 
             <Typography variant="body1" gutterBottom>
               Hi Everyone, I am Milind Pandey from Uttrakhand, India.
+              <br></br>
               I am a student at Bipin Chandra Tripathi kumon Institute of Technology .
             </Typography>
           </div>
