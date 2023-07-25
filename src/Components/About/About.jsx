@@ -23,7 +23,6 @@ export default function About() {
             <Typography variant="h4" gutterBottom>
               Milind Pandey
             </Typography>
-
             <Typography variant="body1" gutterBottom>
               Hi Everyone, I am Milind Pandey from Uttrakhand, India.
               <br></br>
