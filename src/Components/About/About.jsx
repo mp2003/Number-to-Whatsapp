@@ -14,35 +14,35 @@ export default function About() {
       <Container className='my-5' maxWidth="sm">
         <div className="d-flex justify-content-center align-items-center flex-column">
           <Avatar
-            alt="Hardik Desai"
+            alt="Milind Pandey"
             src={Logo}
             sx={{ width: 150, height: 150 }}
           />
 
           <div className="text-center my-4">
             <Typography variant="h4" gutterBottom>
-              Hardik Desai
+              Milind Pandey
             </Typography>
 
             <Typography variant="body1" gutterBottom>
-              Hi Everyone, I am Hardik Desai from Gujarat, India.
-              I am a Fronted web developer at Zignuts Technolab Pvt. Ltd.
+              Hi Everyone, I am Milind Pandey from Uttrakhand, India.
+              I am a student at Bipin Chandra Tripathi kumon Institute of Technology .
             </Typography>
           </div>
         </div>
 
         <hr />
         <Typography variant="h6" gutterBottom>
-          Social Handles
+          Connect With Me
         </Typography>
         <div id='social' className="d-flex justify-content-center align-items-center">
-          <a href="https://www.github.com/imhardikdesai" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/mp2003" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
           </a>
-          <a href="https://www.instagram.com/imhardikdesai" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/milindpandey__/" target="_blank" rel="noopener noreferrer">
             <InstagramIcon />
           </a>
-          <a href="https://www.linkedin.com/in/desai-hardik-6b239b213/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/milind-pandey-9bb3a020b/" target="_blank" rel="noopener noreferrer">
             <LinkedInIcon />
           </a>
 

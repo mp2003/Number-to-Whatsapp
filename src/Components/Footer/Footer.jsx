@@ -46,7 +46,7 @@ export default function Footer() {
                 style={{ color: 'rgb(1 128 49)' }}
                 component={Link}
                 to="/about"
-                label="Owner"
+                label="About Me"
                 value="about"
                 showlabels='false'
                 icon={<AccountCircleIcon />} />
